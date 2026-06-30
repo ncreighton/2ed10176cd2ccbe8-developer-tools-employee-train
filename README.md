@@ -1,0 +1,2 @@
+# 2ed10176cd2ccbe8-developer-tools-employee-train
+The developer tools tool you'd build yourself — if you had the time.  Under 1MB. Zero performance impact on browser speed. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Developer Tools Employee Training Portal — fully configured and ready to use - One-click activation directly from the browser toolba
